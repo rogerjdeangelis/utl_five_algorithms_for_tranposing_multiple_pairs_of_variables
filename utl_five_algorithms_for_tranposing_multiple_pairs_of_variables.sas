@@ -1,5 +1,6 @@
 Five algorithms for tranposing multiple pairs of variables
 
+  All these solutions create tables, I am not interested in the report from proc report, just the output dataset.
   I think time spent with pro report is well spent.
   Especially if SAS decides to fix the ODS variable naming bug.
   proc corresp does honor ods output.
