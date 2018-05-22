@@ -1,6 +1,7 @@
 # utl_five_algorithms_for_tranposing_multiple_pairs_of_variables
     Five algorithms for tranposing multiple pairs of variables
-
+    
+      These solution all produce and output table. Report can sort, transpose and summarize.
       I think time spent with pro report is well spent.
       Especially if SAS decides to fix the ODS variable naming bug.
       proc corresp does honor ods output.
